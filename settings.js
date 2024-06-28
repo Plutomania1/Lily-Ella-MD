@@ -22,20 +22,20 @@ global.socialm = "GitHub: SACHIBOT26" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94725881990" //ur number
+global.ownernomer = "2348120549697" //ur number
 global.premium = ['94725881990'] //ur premium number
-global.botname = 'Lily-Ella-MD' //ur bot name
+global.botname = '𝙱𝙴𝙻𝙸𝙴𝚅𝙴™️' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Io1KFbF0v3MB4XADe7r2Y6" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/Sachi_ya_004" //ur website to be displayed
 global.botscript = 'https://github.com/SACHIBOT/Lily-Ella-MD' //script link
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "SACHIBOT" //ur sticker watermark packname
-global.author = "Lily-Ella-MD" //ur sticker watermark author
+global.themeemoji = "🚭" //ur theme emoji
+global.packname = "𝙱𝙴𝙻𝙸𝙴𝚅𝙴™️" //ur sticker watermark packname
+global.author = "𝙱𝙴𝙻𝙸𝙴𝚅𝙴™️" //ur sticker watermark author
 global.wm = "Sachi Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
-global.prefa = ['','!','.','#','&']
+global.prefa = ['¥','!','.','#','&']
 global.sp = ''
 
 //messages
